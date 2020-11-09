@@ -19,4 +19,6 @@ goto where windowsmaster.zip downloaded, double click and extract
 then open the extracted folder and find WindowsMaster.exe
 right click and run as administrator
 
+# Help
+[HELPME!!!](https://silentdevlabs.github.io/)
 Made Using Python (:
